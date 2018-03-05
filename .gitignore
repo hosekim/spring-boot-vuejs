@@ -1,0 +1,40 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse #
+.settings
+.project
+.classpath
+.studio
+target
+
+# Apple #
+.DS_Store
+
+# Intellij #
+.idea
+*.iml
+*.log
+
+# logback
+logback.out.xml
+
+be/src/main/resources/public/
+be/target
+be/node
+fe/dist/
+fe/node/
+fe/node_modules/
+fe/npm-debug.log
+fe/target
+fe/test-output
+fe/test/e2e/reports
+fe/test/unit/coverage
+fe/yarn-error.log
+fe/yarn.lock
+security/target/
+selenium-debug.log
