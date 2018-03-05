@@ -8,3 +8,7 @@
 
 ## Test
 * `localhost:8088`
+
+## References
+* [https://github.com/jonashackt/spring-boot-vuejs](https://github.com/jonashackt/spring-boot-vuejs)
+* [http://justincalleja.com/2016/04/17/serving-a-webpack-bundle-in-spring-boot/](http://justincalleja.com/2016/04/17/serving-a-webpack-bundle-in-spring-boot/)
