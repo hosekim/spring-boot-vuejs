@@ -1,0 +1,19 @@
+# default local properties
+server:
+  port: 80
+
+---
+# development properties
+spring:
+  profiles: dev
+
+server:
+  port: 80
+
+---
+# production properties
+spring:
+  profiles: prod
+
+server:
+  port: 80
